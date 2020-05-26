@@ -14,7 +14,7 @@
 //  Yashwanth_Gurijala_Assignment3.cpp
 //
 //  Created by Yashwanth Reddy Gurijala on 4/29/2020.
-//  Copyright © 2020 Yashwanth Reddy Gurijala. All rights reserved.
+//  Copyright Â© 2020 Yashwanth Reddy Gurijala. All rights reserved.
 //
 
 #include <iostream>
